@@ -1,0 +1,34 @@
+
+Pseudo code
+
+Pseudo = False 
+Code = set of instructions 
+
+
+Comment: //
+Start : BEGIN 
+STOP: END 
+INPUT : INPUT, GET , READ 
+CALCULATE : COMPUTE, CALCULATE, ADD, SUBRACT, INITIALIZE
+OUTPUT: OUTPUT, PRINT, DISPLAY
+SELECTION: IF, ELSE, ENDIF 
+ITERATION: WHILE, ENDWHILE, FOR, ENDFOR 
+
+
+//Pseudo code TO ADD TWO NUMBERfa-spin
+
+BEGIN 
+GET A and B
+ADD c = a + b
+PRINT c
+END
+
+
+
+
+
+
+
+
+
+
